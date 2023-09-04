@@ -4,9 +4,15 @@
 </kbd>
 </p>
 
-# The Labay Media
+<h1 align="center">The Labay Media</h1>
 
 The Labay Media is a group made in Labay Middle School (LMS) to make software products to help benefit the students of Labay. I Believe that the school has been getting boring, fights and drama vaulted.
+
+<h1 align="center">Socials</h1>
+
+<p align="center">
+<a href="https://discord.gg/T3bzN5YkcH"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
+</p>
 
 # Our Goals
 
