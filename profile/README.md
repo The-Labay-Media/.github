@@ -1,3 +1,9 @@
+<p align="center">
+<kbd>
+<img width="150px" src="/img/The Labay Media.png">
+</kbd>
+</p>
+
 # The Labay Media
 
 The Labay Media is a group made in Labay Middle School (LMS) to make software products to help benefit the students of Labay. I Believe that the school has been getting boring, fights and drama vaulted.
